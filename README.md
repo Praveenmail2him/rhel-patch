@@ -81,4 +81,4 @@ MIT
 Author Information
 ------------------
 
- * Original: Joerg Kastning <joerg(dot)kastning(at)uni-bielefeld(dot)de>
+ * Original: Praveen Kumar K S
